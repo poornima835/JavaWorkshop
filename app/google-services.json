@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551509710322",
+    "project_id": "javaworkshop-db5d7",
+    "storage_bucket": "javaworkshop-db5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551509710322:android:a6429239d60cde18c3476b",
+        "android_client_info": {
+          "package_name": "com.example.javaworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551509710322-di40mhcsu0bnhbtvlind8tliakrgocde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00uret6k2fH8p7iyEwqyjyamW7zlJwSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551509710322-di40mhcsu0bnhbtvlind8tliakrgocde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
