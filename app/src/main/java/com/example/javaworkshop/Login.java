@@ -109,6 +109,5 @@ public class Login extends AppCompatActivity {
             intent.putExtra("logusername",LogUserName.getText().toString());
             startActivity(intent);
             finish();
-        }
-    }
+        }    }
 }
